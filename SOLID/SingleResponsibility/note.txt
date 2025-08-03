@@ -1,0 +1,13 @@
+S (Single responsibility Principle) - A class should have only one reason to change. In other words, a class should only have one job, one responsibility.
+SRP is not just for classes it is for methods,modules,microservices etc.
+
+
+This reduces the coupling
+
+
+common mistakes - 
+A UI code is coupled with logic , it should not be there
+Business logic should not be mixed with DB logic.
+
+
+Real life example to apply - compilers , payment gateway with website , any feature coded product.
