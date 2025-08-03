@@ -1,0 +1,1 @@
+ISP - client should not use bloated fat interfaces , interfaces should be broken into minimal and usable entities.
