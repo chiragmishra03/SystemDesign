@@ -1,0 +1,5 @@
+// DRY - do not repeat yourself (the logic should not be re written again and again)
+
+// KISS - Keep it simple and stupid (the logic should not be complicated and should be kept simple , reduce complexity of design as much as possible)
+
+//YAGNI - You are not gonna need it , build and implement things when you actually need them , not when you foresee them and wish to , it may include complexity.
