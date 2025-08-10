@@ -1,1 +1,1 @@
-![Singleton](3.Creational%20Design%20Patterns/Singleton%20Pattern/singleton.png)
+![Singleton](3.Creational_Design_Patterns/Singleton_Pattern/singleton.png)
