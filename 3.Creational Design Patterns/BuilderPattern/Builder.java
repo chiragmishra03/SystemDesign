@@ -1,12 +1,12 @@
 
 class AmazonCart {
     // mandatory field
-    private int quantity;
-    private String size;
+    private final int quantity;
+    private final String size;
 
     // optional
-    private boolean giftWrap;
-    private String color;
+    private final boolean giftWrap;
+    private final String color;
 
     private AmazonCart(AmazonCartBuilder ab) {
         this.quantity = ab.quantity;
@@ -15,7 +15,7 @@ class AmazonCart {
         this.color = ab.color;
     }
 
-    @Override 
+    @Override
     public String toString() {
         return "color=" + color +
                 ", quantity=" + quantity +
